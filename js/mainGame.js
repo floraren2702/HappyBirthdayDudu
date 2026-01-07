@@ -23,7 +23,7 @@ const gameData = {
 
     "3": {
         "text": "Bubu finally recognizes her mignon Dudu 🩵.",
-        "image" : "smaller_images/cat_in_Bubu_arms.png",
+        "image" : "smaller_images/cat_in_bubu_arms.png",
 "choices": {
             "Dudu and his Bubu cuddle in bed watching Tom 🐈‍⬛ and Jerry 🐹 happily because Dudu is the softesttt (and Dudu can relate to Tom).": [4,["Babie Dudu"]],
             "Dudu and his Bubu immediately go to the library 📚 to borrow all the sorcery and magik books we can find to turn Bubu into a cat too.": [5,["Soulmate Dudu"]],
