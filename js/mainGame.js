@@ -262,7 +262,7 @@ const gameData = {
 
     "25": {
         "text": "After playing for hours, the screen suddenly glitches. A new track unlocks: BubuDuduLand. The music is soft. The sky is pink 🎆. Everything feels strangely familiar.",
-        "image": "smaller_images/BubuDuduLand.png",
+        "image": "smaller_images/bubududuland.png",
 "choices": {
             "Dudu's excited to try a new Mario Kart track 🛤️ for free and presses PLAY immediately.": [31, ["Sunshine Dudu"]],
             "Dudu stares at the screen, realizing this place feels like home 🏠 somehow.": [31, ["Soulmate Dudu"]],
